@@ -6,10 +6,122 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164556Z" creationid="Marc Riera" creationdate="20210510T164556Z">
+        <seg>Cancel·la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164551Z" creationid="Marc Riera" creationdate="20210510T164551Z">
+        <seg>Error de còpia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164609Z" creationid="Marc Riera" creationdate="20210510T164609Z">
+        <seg>Fitxers HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164616Z" creationid="Marc Riera" creationdate="20210510T164616Z">
+        <seg>Fitxers JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164621Z" creationid="Marc Riera" creationdate="20210510T164621Z">
+        <seg>Fitxers Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164705Z" creationid="Marc Riera" creationdate="20210510T164705Z">
+        <seg>No s'ha trobat l'element &lt;xliff&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164555Z" creationid="Marc Riera" creationdate="20210510T164555Z">
+        <seg>D'acord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210506T083051Z" creationid="Marc Riera" creationdate="20210506T083051Z">
         <seg>Paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164525Z" creationid="Marc Riera" creationdate="20210510T164514Z">
+        <seg>Opcions del filtre d'Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164522Z" creationid="Marc Riera" creationdate="20210510T164522Z">
+        <seg>Opcions del filtre XLIFF d'Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164628Z" creationid="Marc Riera" creationdate="20210510T164628Z">
+        <seg>Fitxers OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164637Z" creationid="Marc Riera" creationdate="20210510T164637Z">
+        <seg>Fitxers SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164646Z" creationid="Marc Riera" creationdate="20210510T164646Z">
+        <seg>Fitxers XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164649Z" creationid="Marc Riera" creationdate="20210510T164649Z">
+        <seg>Fitxers XLIFF-2 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164723Z" creationid="Marc Riera" creationdate="20210510T164723Z">
+        <seg>Fitxers YAML (Okapi)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
