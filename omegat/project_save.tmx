@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182652Z" creationid="Marc Riera" creationdate="20210510T182652Z">
+        <seg>Ja existeix un altre paquet amb el mateix nom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164556Z" creationid="Marc Riera" creationdate="20210510T164556Z">
@@ -18,6 +26,54 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164551Z" creationid="Marc Riera" creationdate="20210510T164551Z">
         <seg>Error de còpia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182634Z" creationid="Marc Riera" creationdate="20210510T182634Z">
+        <seg>S'està creant un projecte nou a partir del paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182723Z" creationid="Marc Riera" creationdate="20210510T182723Z">
+        <seg>Supressió del paquet OMT desempaquetat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182741Z" creationid="Marc Riera" creationdate="20210510T182741Z">
+        <seg>S'està suprimint el projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182710Z" creationid="Marc Riera" creationdate="20210510T182710Z">
+        <seg>Voleu suprimir el paquet OMT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182645Z" creationid="Marc Riera" creationdate="20210510T182645Z">
+        <seg>Voleu sobreescriure-la amb la traducció del paquet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182654Z" creationid="Marc Riera" creationdate="20210510T182654Z">
+        <seg>Voleu sobreescriure aquest paquet?</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +126,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182429Z" creationid="Marc Riera" creationdate="20210510T182429Z">
+        <seg>Fitxer de paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182704Z" creationid="Marc Riera" creationdate="20210510T182704Z">
+        <seg>El paquet OMT s'ha creat correctament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182730Z" creationid="Marc Riera" creationdate="20210510T182730Z">
+        <seg>S'ha importat el paquet OMT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182740Z" creationid="Marc Riera" creationdate="20210510T182740Z">
+        <seg>S'ha empaquetat el projecte OMT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164525Z" creationid="Marc Riera" creationdate="20210510T164514Z">
@@ -94,10 +182,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182655Z" creationid="Marc Riera" creationdate="20210510T182655Z">
+        <seg>Sobreescriu el paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182649Z" creationid="Marc Riera" creationdate="20210510T182649Z">
+        <seg>Sobreescriu el fitxer project.save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182738Z" creationid="Marc Riera" creationdate="20210510T182738Z">
+        <seg>S'està empaquetant el projecte OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164637Z" creationid="Marc Riera" creationdate="20210510T164637Z">
         <seg>Fitxers SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182707Z" creationid="Marc Riera" creationdate="20210510T182707Z">
+        <seg>El paquet s'ha desempaquetat correctament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182638Z" creationid="Marc Riera" creationdate="20210510T182638Z">
+        <seg>El projecte ja té una traducció en curs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182727Z" creationid="Marc Riera" creationdate="20210510T182727Z">
+        <seg>S'està desempaquetant el paquet OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182630Z" creationid="Marc Riera" creationdate="20210510T182630Z">
+        <seg>S'està actualitzant el projecte actual amb el contingut del paquet OMT</seg>
       </tuv>
     </tu>
     <tu>
