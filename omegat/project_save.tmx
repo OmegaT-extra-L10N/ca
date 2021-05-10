@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183135Z" creationid="Marc Riera" creationdate="20210510T183135Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164556Z" creationid="Marc Riera" creationdate="20210510T164556Z">
         <seg>Cancel·la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183407Z" creationid="Marc Riera" creationdate="20210510T183407Z">
+        <seg>Caràcters:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183225Z" creationid="Marc Riera" creationdate="20210510T183225Z">
+        <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete unpacked OMT Package</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182723Z" creationid="Marc Riera" creationdate="20210510T182723Z">
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182741Z" creationid="Marc Riera" creationdate="20210510T182741Z">
         <seg>S'està suprimint el projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183216Z" creationid="Marc Riera" creationdate="20210510T183216Z">
+        <seg>Direcció:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +110,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183220Z" creationid="Marc Riera" creationdate="20210510T183220Z">
+        <seg>Avall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183243Z" creationid="Marc Riera" creationdate="20210510T183243Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183412Z" creationid="Marc Riera" creationdate="20210510T183412Z">
+        <seg>Codificació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183138Z" creationid="Marc Riera" creationdate="20210510T183138Z">
+        <seg>Error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183414Z" creationid="Marc Riera" creationdate="20210510T183414Z">
+        <seg>Mida del fitxer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183205Z" creationid="Marc Riera" creationdate="20210510T183205Z">
+        <seg>Cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183251Z" creationid="Marc Riera" creationdate="20210510T183251Z">
+        <seg>Cerca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183320Z" creationid="Marc Riera" creationdate="20210510T183320Z">
+        <seg>Cerca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183102Z" creationid="Marc Riera" creationdate="20210510T183102Z">
+        <seg>Ves a la línia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164609Z" creationid="Marc Riera" creationdate="20210510T164609Z">
@@ -86,10 +190,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183052Z" creationid="Marc Riera" creationdate="20210510T183052Z">
+        <seg>El paquet OMT no és vàlid, falta el fitxer «omegat.project».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JSON files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164616Z" creationid="Marc Riera" creationdate="20210510T164616Z">
         <seg>Fitxers JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183111Z" creationid="Marc Riera" creationdate="20210510T183111Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183108Z" creationid="Marc Riera" creationdate="20210510T183108Z">
+        <seg>Número de línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183406Z" creationid="Marc Riera" creationdate="20210510T183406Z">
+        <seg>Línies:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183304Z" creationid="Marc Riera" creationdate="20210510T183304Z">
+        <seg>Marca-ho tot</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +250,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164705Z" creationid="Marc Riera" creationdate="20210510T164705Z">
         <seg>No s'ha trobat l'element &lt;xliff&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183149Z" creationid="Marc Riera" creationdate="20210510T183149Z">
+        <seg>D</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +350,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183404Z" creationid="Marc Riera" creationdate="20210510T183404Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183034Z" creationid="Marc Riera" creationdate="20210510T183034Z">
+        <seg>Empaqueta i suprimeix el projecte...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183030Z" creationid="Marc Riera" creationdate="20210510T183030Z">
+        <seg>Empaqueta el projecte com a fitxer OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Packing OMT project...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182738Z" creationid="Marc Riera" creationdate="20210510T182738Z">
@@ -206,10 +382,106 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183359Z" creationid="Marc Riera" creationdate="20210510T183359Z">
+        <seg>Camí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183155Z" creationid="Marc Riera" creationdate="20210510T183155Z">
+        <seg>Introduïu un enter entre 1 i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183357Z" creationid="Marc Riera" creationdate="20210510T183357Z">
+        <seg>Propietats: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183307Z" creationid="Marc Riera" creationdate="20210510T183307Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183215Z" creationid="Marc Riera" creationdate="20210510T183215Z">
+        <seg>Reemplaça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183302Z" creationid="Marc Riera" creationdate="20210510T183302Z">
+        <seg>Reemplaça-ho tot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183256Z" creationid="Marc Riera" creationdate="20210510T183256Z">
+        <seg>Reemplaça-ho per:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183350Z" creationid="Marc Riera" creationdate="20210510T183350Z">
+        <seg>Reemplaça:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164637Z" creationid="Marc Riera" creationdate="20210510T164637Z">
         <seg>Fitxers SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183044Z" creationid="Marc Riera" creationdate="20210510T183044Z">
+        <seg>Seleccioneu la ubicació i el nom del paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183041Z" creationid="Marc Riera" creationdate="20210510T183041Z">
+        <seg>Seleccioneu el paquet OMT que voleu importar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183345Z" creationid="Marc Riera" creationdate="20210510T183345Z">
+        <seg>Maj+Retorn realitza un reemplaçament cap enrere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183326Z" creationid="Marc Riera" creationdate="20210510T183326Z">
+        <seg>Maj+Retorn realitza una cerca cap enrere</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +502,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183224Z" creationid="Marc Riera" creationdate="20210510T183224Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183027Z" creationid="Marc Riera" creationdate="20210510T183027Z">
+        <seg>Desempaqueta un projecte des d'un fitxer OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpacking OMT package...</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182727Z" creationid="Marc Riera" creationdate="20210510T182727Z">
@@ -238,10 +526,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183218Z" creationid="Marc Riera" creationdate="20210510T183218Z">
+        <seg>Amunt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182630Z" creationid="Marc Riera" creationdate="20210510T182630Z">
         <seg>S'està actualitzant el projecte actual amb el contingut del paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183408Z" creationid="Marc Riera" creationdate="20210510T183408Z">
+        <seg>Paraules:</seg>
       </tuv>
     </tu>
     <tu>
