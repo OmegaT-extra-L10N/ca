@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183944Z" creationid="Marc Riera" creationdate="20210510T183944Z">
+        <seg>Inclou el nom de la unitat de traducció en els comentaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183052Z" creationid="Marc Riera" creationdate="20210510T183052Z">
@@ -214,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183854Z" creationid="Marc Riera" creationdate="20210510T183854Z">
+        <seg>Darrera modificació:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183108Z" creationid="Marc Riera" creationdate="20210510T183108Z">
         <seg>Número de línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183914Z" creationid="Marc Riera" creationdate="20210510T183914Z">
+        <seg>Línia: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +346,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164522Z" creationid="Marc Riera" creationdate="20210510T164522Z">
         <seg>Opcions del filtre XLIFF d'Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183857Z" creationid="Marc Riera" creationdate="20210510T183857Z">
+        <seg>Macintosh antic (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183841Z" creationid="Marc Riera" creationdate="20210510T183841Z">
+        <seg>Valor per defecte del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package has been successfully unpacked.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182707Z" creationid="Marc Riera" creationdate="20210510T182707Z">
@@ -506,6 +546,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183224Z" creationid="Marc Riera" creationdate="20210510T183224Z">
         <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183831Z" creationid="Marc Riera" creationdate="20210510T183831Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +586,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182630Z" creationid="Marc Riera" creationdate="20210510T182630Z">
         <seg>S'està actualitzant el projecte actual amb el contingut del paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183833Z" creationid="Marc Riera" creationdate="20210510T183833Z">
+        <seg>Windows (\r\n)</seg>
       </tuv>
     </tu>
     <tu>
