@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141242Z" creationid="Marc Riera" creationdate="20221127T141242Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>Another package with the same name already exists.</seg>
@@ -18,6 +26,22 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183135Z" creationid="Marc Riera" creationdate="20210510T183135Z">
         <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141303Z" creationid="Marc Riera" creationdate="20221127T141303Z">
+        <seg>No es pot refer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141255Z" creationid="Marc Riera" creationdate="20221127T141255Z">
+        <seg>No es pot desfer</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141319Z" creationid="Marc Riera" creationdate="20221127T141319Z">
+        <seg>Historial del porta-retalls:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141049Z" creationid="Marc Riera" creationdate="20221127T141049Z">
+        <seg>Assistència de contingut disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Error</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164551Z" creationid="Marc Riera" creationdate="20210510T164551Z">
@@ -54,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141232Z" creationid="Marc Riera" creationdate="20221127T141232Z">
+        <seg>Retalla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183225Z" creationid="Marc Riera" creationdate="20210510T183225Z">
         <seg>V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141237Z" creationid="Marc Riera" creationdate="20221127T141237Z">
+        <seg>Suprimeix</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140852Z" creationid="Marc Riera" creationdate="20221127T140852Z">
+        <seg>Fitxers amb comentaris Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183243Z" creationid="Marc Riera" creationdate="20210510T183243Z">
@@ -142,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141222Z" creationid="Marc Riera" creationdate="20221127T141222Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Size:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183414Z" creationid="Marc Riera" creationdate="20210510T183414Z">
@@ -150,10 +222,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135319Z" creationid="Marc Riera" creationdate="20221127T135319Z">
+        <seg>Fitxers de paràmetres del filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140756Z" creationid="Marc Riera" creationdate="20221127T140756Z">
+        <seg>Actualment, els paràmetres del filtre són &lt;b&gt;específics del projecte&lt;/b&gt;.&lt;br&gt;Per tant, quan feu clic en «D'acord», es copiarà el fitxer de paràmetres a aquesta ubicació:&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183205Z" creationid="Marc Riera" creationdate="20210510T183205Z">
         <seg>Cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141103Z" creationid="Marc Riera" creationdate="20221127T141103Z">
+        <seg>Cerca l'anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141017Z" creationid="Marc Riera" creationdate="20221127T141017Z">
+        <seg>Coincidència parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141012Z" creationid="Marc Riera" creationdate="20221127T141012Z">
+        <seg>Problemes de coincidències parcials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto Line</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183102Z" creationid="Marc Riera" creationdate="20210510T183102Z">
@@ -182,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141306Z" creationid="Marc Riera" creationdate="20221127T141306Z">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164609Z" creationid="Marc Riera" creationdate="20210510T164609Z">
         <seg>Fitxers HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135431Z" creationid="Marc Riera" creationdate="20221127T135431Z">
+        <seg>Fitxers IDML de l'InDesign (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +330,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183052Z" creationid="Marc Riera" creationdate="20210510T183052Z">
         <seg>El paquet OMT no és vàlid, falta el fitxer «omegat.project».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135403Z" creationid="Marc Riera" creationdate="20221127T135403Z">
+        <seg>Teniu un projecte obert?</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141138Z" creationid="Marc Riera" creationdate="20221127T141138Z">
+        <seg>Fi de línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line: {0}</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183914Z" creationid="Marc Riera" creationdate="20210510T183914Z">
@@ -270,10 +414,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135330Z" creationid="Marc Riera" creationdate="20221127T135330Z">
+        <seg>Falta el camí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141209Z" creationid="Marc Riera" creationdate="20221127T141209Z">
+        <seg>Hi ha diversos marcadors en aquesta línia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No &lt;xliff&gt; element found.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164705Z" creationid="Marc Riera" creationdate="20210510T164705Z">
         <seg>No s'ha trobat l'element &lt;xliff&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140807Z" creationid="Marc Riera" creationdate="20221127T140807Z">
+        <seg>No s'ha trobat el fitxer de paràmetres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140816Z" creationid="Marc Riera" creationdate="20221127T140816Z">
+        <seg>No s'ha trobat la carpeta del projecte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135507Z" creationid="Marc Riera" creationdate="20221127T135507Z">
+        <seg>No hi ha cap element en el fitxer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +514,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182740Z" creationid="Marc Riera" creationdate="20210510T182740Z">
         <seg>S'ha empaquetat el projecte OMT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141158Z" creationid="Marc Riera" creationdate="20221127T141152Z">
+        <seg>Repetició de «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +606,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141240Z" creationid="Marc Riera" creationdate="20221127T141240Z">
+        <seg>Enganxa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141310Z" creationid="Marc Riera" creationdate="20221127T141310Z">
+        <seg>Enganxa des de l'historial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183359Z" creationid="Marc Riera" creationdate="20210510T183359Z">
@@ -438,10 +646,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135258Z" creationid="Marc Riera" creationdate="20221127T135258Z">
+        <seg>Protegeix les entrades amb «state='final'» (si no ho marqueu, es poden editar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140900Z" creationid="Marc Riera" creationdate="20221127T140900Z">
+        <seg>Fitxers TS del Qt (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183307Z" creationid="Marc Riera" creationdate="20210510T183307Z">
         <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141300Z" creationid="Marc Riera" creationdate="20221127T141300Z">
+        <seg>Refés</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +704,8 @@
       <tuv lang="en">
         <seg>Replace:</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183350Z" creationid="Marc Riera" creationdate="20210510T183350Z">
-        <seg>Reemplaça:</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141126Z" creationid="Marc Riera" creationdate="20210510T183350Z">
+        <seg>Substitueix:</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +714,30 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164637Z" creationid="Marc Riera" creationdate="20210510T164637Z">
         <seg>Fitxers SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141029Z" creationid="Marc Riera" creationdate="20221127T141029Z">
+        <seg>El segment comença per un prefix de coincidència parcial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141248Z" creationid="Marc Riera" creationdate="20221127T141248Z">
+        <seg>Selecciona-ho tot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135311Z" creationid="Marc Riera" creationdate="20221127T135311Z">
+        <seg>Selecció d'un fitxer de paràmetres del filtre</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,16 +760,32 @@
       <tuv lang="en">
         <seg>Shift+Enter performs a backwards replace</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183345Z" creationid="Marc Riera" creationdate="20210510T183345Z">
-        <seg>Maj+Retorn realitza un reemplaçament cap enrere</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141116Z" creationid="Marc Riera" creationdate="20210510T183345Z">
+        <seg>Maj+Retorn fa una substitució cap enrere</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Shift+Enter performs a backwards search</seg>
       </tuv>
-      <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183326Z" creationid="Marc Riera" creationdate="20210510T183326Z">
-        <seg>Maj+Retorn realitza una cerca cap enrere</seg>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141106Z" creationid="Marc Riera" creationdate="20210510T183326Z">
+        <seg>Maj+Retorn fa una cerca cap enrere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135239Z" creationid="Marc Riera" creationdate="20221127T135239Z">
+        <seg>Mostra i protegeix les entrades amb «translate='no'» (si no ho marqueu, no s'extreuen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135417Z" creationid="Marc Riera" creationdate="20221127T135417Z">
+        <seg>S'ha produït un problema en copiar el fitxer de paràmetres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +798,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141227Z" creationid="Marc Riera" creationdate="20221127T141227Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140907Z" creationid="Marc Riera" creationdate="20221127T140907Z">
+        <seg>Fitxers TTX del TagEditor (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package has been successfully unpacked.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182707Z" creationid="Marc Riera" creationdate="20210510T182707Z">
@@ -534,10 +822,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135345Z" creationid="Marc Riera" creationdate="20221127T135345Z">
+        <seg>El fitxer de paràmetres no existeix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project already has an ongoing translation.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182638Z" creationid="Marc Riera" creationdate="20210510T182638Z">
         <seg>El projecte ja té una traducció en curs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135456Z" creationid="Marc Riera" creationdate="20221127T135456Z">
+        <seg>Falta l'atribut de versió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135448Z" creationid="Marc Riera" creationdate="20221127T135448Z">
+        <seg>Fitxers de projecte de Transifex (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +866,22 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183831Z" creationid="Marc Riera" creationdate="20210510T183831Z">
         <seg>UNIX (\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135353Z" creationid="Marc Riera" creationdate="20221127T135353Z">
+        <seg>No s'ha pogut determinar la carpeta del projecte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141251Z" creationid="Marc Riera" creationdate="20221127T141251Z">
+        <seg>Desfés</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,10 +918,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135203Z" creationid="Marc Riera" creationdate="20221127T135203Z">
+        <seg>Utilitza els paràmetres del filtre per defecte (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135215Z" creationid="Marc Riera" creationdate="20221127T135215Z">
+        <seg>Utilitza el fitxer de paràmetres del filtre següent:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows (\r\n)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183833Z" creationid="Marc Riera" creationdate="20210510T183833Z">
         <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140918Z" creationid="Marc Riera" creationdate="20221127T140918Z">
+        <seg>Fitxers TXML del Wordfast Pro (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,10 +974,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135518Z" creationid="Marc Riera" creationdate="20221127T135518Z">
+        <seg>Fitxers XML (Okapi, filtre XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T140951Z" creationid="Marc Riera" creationdate="20221127T140951Z">
+        <seg>Fitxers XML (Okapi, filtre de seqüències XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YAML files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164723Z" creationid="Marc Riera" creationdate="20210510T164723Z">
         <seg>Fitxers YAML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135336Z" creationid="Marc Riera" creationdate="20221127T135336Z">
+        <seg>Heu d'especificar un camí.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
