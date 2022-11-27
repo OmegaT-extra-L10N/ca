@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T174120Z" creationid="Marc Riera" creationdate="20221127T174120Z">
+        <seg>Permet triar quin text enganxar a partir del text recent en el porta-retalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clipboard History:</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141319Z" creationid="Marc Riera" creationdate="20221127T141319Z">
@@ -70,10 +78,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173841Z" creationid="Marc Riera" creationdate="20221127T173841Z">
+        <seg>Redueix tots els comentaris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173809Z" creationid="Marc Riera" creationdate="20221127T173809Z">
+        <seg>Redueix tots els plegaments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173847Z" creationid="Marc Riera" creationdate="20221127T173847Z">
+        <seg>Redueix tots els comentaris.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173835Z" creationid="Marc Riera" creationdate="20221127T173835Z">
+        <seg>Redueix tots els plegaments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141049Z" creationid="Marc Riera" creationdate="20221127T141049Z">
         <seg>Assistència de contingut disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173918Z" creationid="Marc Riera" creationdate="20221127T173918Z">
+        <seg>Copia la selecció actual al porta-retalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173904Z" creationid="Marc Riera" creationdate="20221127T173904Z">
+        <seg>Copia</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173853Z" creationid="Marc Riera" creationdate="20221127T173853Z">
+        <seg>Expandeix tots els plegaments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173901Z" creationid="Marc Riera" creationdate="20221127T173901Z">
+        <seg>Expandeix tots els plegaments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>F</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141222Z" creationid="Marc Riera" creationdate="20221127T141222Z">
@@ -266,6 +338,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183320Z" creationid="Marc Riera" creationdate="20210510T183320Z">
         <seg>Cerca:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173728Z" creationid="Marc Riera" creationdate="20221127T173728Z">
+        <seg>Plegament</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +514,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164621Z" creationid="Marc Riera" creationdate="20210510T164621Z">
         <seg>Fitxers Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173702Z" creationid="Marc Riera" creationdate="20221127T173702Z">
+        <seg>Coincidència de majúscules i minúscules</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,10 +742,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T174016Z" creationid="Marc Riera" creationdate="20221127T174016Z">
+        <seg>Insereix el text del porta-retalls en la ubicació actual del fitxer de text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183155Z" creationid="Marc Riera" creationdate="20210510T183155Z">
         <seg>Introduïu un enter entre 1 i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173718Z" creationid="Marc Riera" creationdate="20221127T173718Z">
+        <seg>Premeu «F2» per a situar el focus</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T174055Z" creationid="Marc Riera" creationdate="20221127T174055Z">
+        <seg>Torna a aplicar la darrera acció desfeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Redo</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141300Z" creationid="Marc Riera" creationdate="20221127T141300Z">
@@ -706,6 +818,22 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171606Z" creationid="Marc Riera" creationdate="20221127T171606Z">
         <seg>Expressions regulars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173941Z" creationid="Marc Riera" creationdate="20221127T173941Z">
+        <seg>Suprimeix la selecció actual i l'envia al porta-retalls.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173948Z" creationid="Marc Riera" creationdate="20221127T173948Z">
+        <seg>Suprimeix la selecció actual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T174027Z" creationid="Marc Riera" creationdate="20221127T174027Z">
+        <seg>Selecciona tot el text en el document de text actual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+Enter performs a backwards replace</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T141116Z" creationid="Marc Riera" creationdate="20210510T183345Z">
@@ -846,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T174047Z" creationid="Marc Riera" creationdate="20221127T174047Z">
+        <seg>Desfà la darrera acció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package has been successfully unpacked.</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T182707Z" creationid="Marc Riera" creationdate="20210510T182707Z">
@@ -874,6 +1018,22 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135456Z" creationid="Marc Riera" creationdate="20221127T135456Z">
         <seg>Falta l'atribut de versió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173827Z" creationid="Marc Riera" creationdate="20221127T173742Z">
+        <seg>Expandeix o redueix el plegament actual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T173758Z" creationid="Marc Riera" creationdate="20221127T173758Z">
+        <seg>Canvia el plegament en la posició del cursor.</seg>
       </tuv>
     </tu>
     <tu>
