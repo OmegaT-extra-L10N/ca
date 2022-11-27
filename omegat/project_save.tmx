@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171616Z" creationid="Marc Riera" creationdate="20221127T171616Z">
+        <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>InDesign IDML files (Okapi)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135431Z" creationid="Marc Riera" creationdate="20221127T135431Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T164616Z" creationid="Marc Riera" creationdate="20210510T164616Z">
         <seg>Fitxers JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171621Z" creationid="Marc Riera" creationdate="20221127T171621Z">
+        <seg>K</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183406Z" creationid="Marc Riera" creationdate="20210510T183406Z">
         <seg>Línies:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171607Z" creationid="Marc Riera" creationdate="20221127T171607Z">
+        <seg>M</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171606Z" creationid="Marc Riera" creationdate="20221127T171606Z">
+        <seg>Expressions regulars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183215Z" creationid="Marc Riera" creationdate="20210510T183215Z">
@@ -934,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171608Z" creationid="Marc Riera" creationdate="20221127T171608Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171602Z" creationid="Marc Riera" creationdate="20221127T171602Z">
+        <seg>Paraules senceres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows (\r\n)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183833Z" creationid="Marc Riera" creationdate="20210510T183833Z">
@@ -954,6 +1002,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20210510T183408Z" creationid="Marc Riera" creationdate="20210510T183408Z">
         <seg>Paraules:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171613Z" creationid="Marc Riera" creationdate="20221127T171613Z">
+        <seg>Ajusta</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,6 +1058,14 @@
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135336Z" creationid="Marc Riera" creationdate="20221127T135336Z">
         <seg>Heu d'especificar un camí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20221127T171614Z" creationid="Marc Riera" creationdate="20221127T171614Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
