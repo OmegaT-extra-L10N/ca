@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use 'name' attribute as segment identifier</seg>
+      </tuv>
+      <tuv lang="ca" changeid="Marc Riera" changedate="20230213T112243Z" creationid="Marc Riera" creationdate="20230213T112243Z">
+        <seg>Utilitza l'atribut «name» com a identificador del segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="ca" changeid="Marc Riera" changedate="20221127T135203Z" creationid="Marc Riera" creationdate="20221127T135203Z">
